@@ -6,7 +6,7 @@ import './HeroSection.css';
 export default function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src="/videos/Vizag.mp4" autoPlay loop muted />
+            <video src="/videos/vizag-2.mp4" autoPlay loop muted />
             <h1>VISAKHAPATNAM</h1>
             <p>THE CITY OF DESTINY</p>
             <div className="hero-btns">
